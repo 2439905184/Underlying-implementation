@@ -1,2 +1,5 @@
 *.exe
 *.class
+build/
+!build/.keep
+__pycache__
