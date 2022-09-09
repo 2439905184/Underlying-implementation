@@ -1,4 +1,4 @@
-‘’#!/bin/bash
+#!/bin/bash
 mkdir build
 gcc buttonGroup.c -std=c99 -o build/buttonGroup_c.exe
 g++ buttonGroup.cpp -o build/buttonGroup_cpp.exe
